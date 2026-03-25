@@ -66,3 +66,4 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 
 
 # RESULT
+Thus the given program is executed successfully and the output is verified.
